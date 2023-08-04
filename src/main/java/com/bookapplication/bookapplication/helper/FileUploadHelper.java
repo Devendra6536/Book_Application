@@ -11,7 +11,7 @@ import org.springframework.web.multipart.MultipartFile;
 @Component
 public class FileUploadHelper {
 
-    public final String UPLOAD_DIR = "/home/team/devendra/JavaBackendDevelopment/SpringbootProjects/bookapplication/src/main/resources/static";
+    public final String UPLOAD_DIR = "/home/team/devendra/JavaBackendDevelopment/SpringbootProjects/bookapplication/src/main/resources/static/image";
     /*
      * public String UPLOAD_DIR = new
      * ClassPathResource("static/image/").getFile().getAbsolutePath();
